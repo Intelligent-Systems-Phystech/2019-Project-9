@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+
+\bibitem{conf/icdar/CiresanMGS11}
+Dan~Claudiu Ciresan, Ueli Meier, Luca~Maria Gambardella, and J{\"u}rgen
+  Schmidhuber.
+\newblock Convolutional neural network committees for handwritten character
+  classification.
+\newblock In {\em ICDAR}, pages 1135--1139. IEEE Computer Society, 2011.
+
+\bibitem{journals/corr/DirnbergerNK15}
+Michael Dirnberger, Adrian Neumann, and Tim Kehl.
+\newblock Nefi: Network extraction from images.
+\newblock {\em CoRR}, abs/1502.05241, 2015.
+
+\bibitem{journals/corr/Fujita15}
+Kazuhisa Fujita.
+\newblock Extract an essential skeleton of a character as a graph from a
+  character image.
+\newblock {\em CoRR}, abs/1506.05068, 2015.
+
+\bibitem{mest2006}
+Stanislav Klimenko, Leonid Mestetskiy, and A~Semenov.
+\newblock Handwritten fonts modeling based on fat curves.
+\newblock {\em GraphiCon 2006 - International Conference on Computer Graphics
+  and Vision, Proceedings}, 01 2006.
+
+\bibitem{mest2008}
+Leonid Mestetskiy and Andrey Semenov.
+\newblock Binary image skeleton - continuous approach.
+\newblock volume~1, pages 251--258, 01 2008.
+
+\bibitem{skan_lib}
+Juan Nunez-Iglesias, Adam Blanch, Oliver Looker, Matthew W.~Dixon, and Leann
+  Tilley.
+\newblock A new python library to analyse skeleton images confirms malaria
+  parasite remodelling of the red blood cell membrane skeleton.
+\newblock {\em PeerJ}, 6:e4312, 02 2018.
+
+\bibitem{rsf}
+Felipe Petroski~Such, Shagan Sah, Miguel Dominguez, Suhas Pillai, Chao Zhang,
+  Andrew Michael, Nathan Cahill, and Raymond Ptucha.
+\newblock Robust spatial filtering with graph convolutional neural networks.
+\newblock {\em IEEE Journal of Selected Topics in Signal Processing}, PP, 03
+  2017.
+
+\bibitem{rf_msu}
+Местецкий~Л.М. Липкина~А.Л.
+\newblock Классификация букв в изображениях на
+  основе медиального представления.
+\newblock {\em GraphiCon 2018: труды 28-й Междунар. конф.
+  по компьютерной графике и машинному
+  зрению}, pages 362--368, 2018.
+
+\bibitem{mest2009}
+Леонид~Моисеевич Местецкий.
+\newblock {\em Непрерывная морфология бинарных
+  изображений: фигуры, скелеты, циркуляры}.
+\newblock Физматлит, 2009.
+
+\bibitem{Svm_cush}
+Кушнир О.А.
+\newblock Сравнение формы бинарных растровых
+  изображений на основе скелетизации.
+\newblock {\em Машинное обучение и анализ данных,
+  2012. Т. 1, No 3.}, pages 252--263, 2018.
+
+\end{thebibliography}

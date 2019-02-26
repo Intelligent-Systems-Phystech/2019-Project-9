@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.19)  25 FEB 2019 00:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.19)  26 FEB 2019 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1257,8 +1257,6 @@ LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 37.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-No file Grigorev2019TextRecognitionUsingSkeletonRepresentationAndCNN.bbl.
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
@@ -1273,34 +1271,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-(./Grigorev2019TextRecognitionUsingSkeletonRepresentationAndCNN.aux) ) 
+(./Grigorev2019TextRecognitionUsingSkeletonRepresentationAndCNN.bbl)
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[2] (./Grigorev2019TextRecognitionUsingSkeletonRepresentationAndCNN.aux) ) 
 Here is how much of TeX's memory you used:
- 29087 strings out of 492649
- 671375 string characters out of 6129622
- 898638 words of memory out of 5000000
- 32317 multiletter control sequences out of 15000+600000
+ 29100 strings out of 492649
+ 671655 string characters out of 6129622
+ 901640 words of memory out of 5000000
+ 32328 multiletter control sequences out of 15000+600000
  27672 words of font info for 78 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 69i,13n,98p,3303b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/loc
-al/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texl
-ive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texliv
-e/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/20
-18/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2018
-/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2018/t
-exmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2018/tex
-mf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2018/texmf
--dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2018/texmf-d
-ist/fonts/type1/public/cm-super/sftt1200.pfb>
+ 69i,14n,98p,3303b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr
+/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/cm-super/sftt1200.pfb>
 Output written on Grigorev2019TextRecognitionUsingSkeletonRepresentationAndCNN.
-pdf (1 page, 172646 bytes).
+pdf (2 pages, 246072 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
